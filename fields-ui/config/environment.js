@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'x',
+    modulePrefix: 'fields-ui',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
